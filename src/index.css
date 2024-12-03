@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footerBG{
+    background-image: url('./assets/images/more/13.jpg');
+}
+
+.bannerBG{
+    background-image: url('./assets/images/more/6.jpeg');
+    background-size: cover;
+}
+.bannerDIV{
+    background: rgb(236, 234, 227);
+}
